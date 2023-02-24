@@ -43,7 +43,6 @@ ASecondaryPlayer::ASecondaryPlayer()
 	Sec_VRRoot->SetupAttachment(GetRootComponent());
 
 
-
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
 	Camera->SetupAttachment(Sec_VRRoot);
 
