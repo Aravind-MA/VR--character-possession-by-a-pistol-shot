@@ -89,7 +89,6 @@ private:
 
 	
 
-
 	// Possession
 
 	FHitResult HitPossess;
